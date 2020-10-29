@@ -1,0 +1,30 @@
+
+entity Staff {
+    Office Object,
+    job String
+}
+
+entity Engineer {
+	Office Object,
+    category String
+}
+
+entity Worker {
+	Office Object,
+	level Integer
+}
+entity Office {
+	fullName String,
+	yearOfBirth Integer,
+	gender Byte,
+    address String,
+}
+relationship OneToMany {
+	Office to Worker
+}
+relationship OneToMany {
+	Office to Engineer
+}
+relationship OneToMany {
+	Office to Staff
+}

@@ -1,0 +1,7 @@
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\bin\Debug\Bai1_OOP_NguyenHoangAnh.exe.config
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\bin\Debug\Bai1_OOP_NguyenHoangAnh.exe
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\bin\Debug\Bai1_OOP_NguyenHoangAnh.pdb
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\obj\Debug\Bai1_OOP_NguyenHoangAnh.csprojAssemblyReference.cache
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\obj\Debug\Bai1_OOP_NguyenHoangAnh.csproj.CoreCompileInputs.cache
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\obj\Debug\Bai1_OOP_NguyenHoangAnh.exe
+E:\HOANGANHNGUYEN\BASIC\Bai1_OOP_NguyenHoangAnh\Bai1_OOP_NguyenHoangAnh\obj\Debug\Bai1_OOP_NguyenHoangAnh.pdb
